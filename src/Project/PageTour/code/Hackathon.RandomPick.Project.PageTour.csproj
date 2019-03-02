@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Project\Hackathon.RandomPick.Project.PageTour.Serialization.config" />
+    <Content Include="App_Config\Include\Project\Hackathon.RandomPick.Project.SiteDefinitions.config" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
@@ -151,9 +152,9 @@
     <Folder Include="Controllers\" />
     <Folder Include="dist\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\PageTour\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Views\PageTour\Layout.cshtml" />
     <None Include="Views\Web.config" />
     <None Include="Properties\PublishProfiles\LocalDev.pubxml">
       <SubType>Designer</SubType>

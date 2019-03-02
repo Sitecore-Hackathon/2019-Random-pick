@@ -1,0 +1,43 @@
+﻿---
+ID: "e2ea1e2f-e063-456f-a8a1-75e6fba16c08"
+Parent: "c29a651f-efc7-ce0d-abcb-f7f5579e9449"
+Template: "cf6ff35a-122e-405d-8a7f-f0e8949a82a6"
+Path: /sitecore/content/Hackathon.RandomPick/Assignments
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T183849Z
+    - ID: "32bf5a27-8ab9-4741-9bba-3f6997d6fb2d"
+      Hint: Secondary Assignment
+      Value: |
+        <p>test</p>
+        <p>&nbsp;</p>
+        <p>test</p>
+        <p>&nbsp;</p>
+        <p>test</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9b342601-175d-4eae-96d9-76a2e0cfd718"
+      Hint: Primary assignment
+      Value: |
+        <p>124<em>2134
+        qwrw
+        r
+        qw
+        r
+        qwe
+        r
+        wqer</em></p>
+        <p><em>234234</em></p>
+        <p><em>&nbsp;</em></p>
+        <p><em><strong>234234</strong></em></p>
+    - ID: "ea2eeb5b-c6ef-4503-a9a6-397bdafcf382"
+      Hint: Person Responsible
+      Value: 1231312

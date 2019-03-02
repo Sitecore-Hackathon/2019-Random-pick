@@ -1,0 +1,33 @@
+﻿---
+ID: "2bbafc72-8fe9-4825-83bf-c816840070ce"
+Parent: "c29a651f-efc7-ce0d-abcb-f7f5579e9449"
+Template: "454e4a63-22f5-4c6b-bcd8-dc3ffdf15ff3"
+Path: /sitecore/content/Hackathon.RandomPick/General Information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11322cf0-2c1f-4ec0-b4e0-0ba9a23b00c8"
+      Hint: Description
+      Value: Test
+    - ID: "1b00da5a-a71c-4f53-83f4-824eb06eda27"
+      Hint: ID Cart number
+      Value: Test
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T175601Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ab9dfc1e-6155-409a-8726-66e781c6d234"
+      Hint: Email
+      Value: Test
+    - ID: "e4810305-63e5-48d1-99b2-03771fd934fd"
+      Hint: Name
+      Value: Test
+    - ID: "ff7942ed-9a66-470b-b492-c8bdf26d7b0a"
+      Hint: Last Name
+      Value: Test

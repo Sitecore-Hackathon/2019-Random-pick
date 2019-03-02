@@ -1,0 +1,30 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>A sample page for Hackathon</title>
+    <style type="text/css">
+        .flex {
+            display:flex;          
+        }
+        .flex > div {
+            flex:1 1 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex">
+        <div>
+            @Html.Sitecore().Placeholder("general-information")
+        </div>
+        <div>
+            @Html.Sitecore().Placeholder("assignments")
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿---
+ID: "184b5544-ceae-479f-8b9f-63f44f580092"
+Parent: "c29a651f-efc7-ce0d-abcb-f7f5579e9449"
+Template: "fe1069eb-1be4-4252-a83e-1008ab0c58a6"
+Path: /sitecore/content/Hackathon.RandomPick/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{0125E9E3-0B6D-4972-9BE6-95BFD1BA7B5C}">
+        <r
+          ds="{2BBAFC72-8FE9-4825-83BF-C816840070CE}"
+          id="{B20880F2-6220-4E2B-9B25-4ACFDA302C2E}"
+          par=""
+          ph="general-information"
+          uid="{77420B60-E11E-4C75-A992-14D7B4C7C2B5}" />
+        <r
+          ds="{E2EA1E2F-E063-456F-A8A1-75E6FBA16C08}"
+          id="{1FEC2E63-2D21-480A-B0A9-D2F75428D06B}"
+          par=""
+          ph="assignments"
+          uid="{7271E72F-8BAB-4BDA-9FF0-E6CE5D6362AA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190302T175758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
