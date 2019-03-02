@@ -1,0 +1,14 @@
+---
+ID: "29f48f6f-b222-1c85-ac93-2433fa205d1e"
+Parent: "73c6ff75-9c2f-9f7f-6426-782b35054636"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Hackathon.RandomPick/Project
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170501T175200Z

@@ -1,0 +1,18 @@
+---
+ID: "bd8da452-ee6c-ae96-ffef-174637f1a117"
+Parent: "16e3d218-31c3-20d6-0636-9e476fed8a61"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Hackathon.RandomPick/Project/PageTour
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T174958Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Cake.Sitecore</id>
+    <version>1.0.16</version>
+    <title></title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
+    <description>My package description.</description>
+    <summary>A set of Cake scripts and tools to compile and deploy Sitecore Helix projects.</summary>
+    <tags>sitecore, cake, build, helix, powershell</tags>
+  </metadata>
+</package>

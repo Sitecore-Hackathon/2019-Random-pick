@@ -1,0 +1,14 @@
+---
+ID: "130651b7-77d5-ac95-586c-b13fe51a7d86"
+Parent: "4e38eae6-6b43-8606-d9f9-a92d7d24ec22"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Models/Hackathon.RandomPick/Feature/PageTour
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T175348Z
