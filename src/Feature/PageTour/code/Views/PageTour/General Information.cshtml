@@ -1,18 +1,43 @@
 ﻿@using Sitecore.Mvc
 @using Sitecore.Mvc.Analytics.Extensions
 
-<div>
-    @Html.Sitecore().Field("Name")
-</div>
-<div>
-    @Html.Sitecore().Field("Last Name")
-</div>
-<div>
-    @Html.Sitecore().Field("Email")
-</div>
-<div>
-    @Html.Sitecore().Field("ID Cart number")
-</div>
-<div>
-    @Html.Sitecore().Field("Description")
-</div>
+<article>
+
+    <header>
+        <h1>
+            General info
+        </h1>
+    </header>
+
+    <div class="well bg-info">
+        <label>
+            Name
+        </label>
+        <h4>
+            @Html.Sitecore().Field("Name")
+        </h4>
+    </div>
+    <div class="well bg-info">
+        <label>
+            Last name
+        </label>
+        <h4>
+            @Html.Sitecore().Field("Las Name")
+        </h4>
+    </div>    <div class="well bg-info">
+        <label>
+            Email
+        </label>
+        <h4>
+            @Html.Sitecore().Field("Email")
+        </h4>
+    </div>
+    <div class="well bg-info">
+        <label>
+            Description
+        </label>
+        <h4>
+            @Html.Sitecore().Field("Description")
+        </h4>
+    </div>
+</article>
